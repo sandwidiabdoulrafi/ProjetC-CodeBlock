@@ -1,0 +1,90 @@
+sandwidi;rafi;12/12/2005;terminal;P1467;Ouagadougou;sandw@gmail.com;12457885;masculin;terminal;0
+svt:3:12,19,
+MoyenneMatiere :15
+anglais:2:15,
+MoyenneMatiere :15
+
+kaboré;amina;05/07/2006;1ère;P1234;Bobo-Dioulasso;amina.kabore@gmail.com;13456789;féminin;1ère;0
+mathématiques:4:18,14,16,
+MoyenneMatiere :16
+histoire:3:13,12,
+MoyenneMatiere :12.5
+
+ouédraogo;patrick;22/08/2004;terminale;P0987;Koudougou;patrick.oued@gmail.com;19876543;masculin;terminale;0
+physique:5:14,15,16,
+MoyenneMatiere :15
+géographie:2:12,14,
+MoyenneMatiere :13
+
+zongo;mariam;30/01/2005;2nde;P5678;Ouagadougou;mariam.zongo@gmail.com;11234567;féminin;2nde;0
+anglais:2:10,12,
+MoyenneMatiere :11
+svt:3:15,16,14,
+MoyenneMatiere :15
+
+koulibaly;youssouf;17/03/2006;1ère;P4567;Bobo-Dioulasso;youssouf.koul@gmail.com;12567834;masculin;1ère;0
+philosophie:4:14,15,13,
+MoyenneMatiere :14
+mathématiques:4:17,18,16,
+MoyenneMatiere :17
+
+sawadogo;justine;09/12/2005;terminale;P3456;Ouagadougou;justine.saw@gmail.com;12456789;féminin;terminale;0
+chimie:3:13,15,14,
+MoyenneMatiere :14
+anglais:2:11,10,
+MoyenneMatiere :10.5
+
+traoré;ismail;20/05/2004;2nde;P6789;Ouahigouya;ismail.tr@gmail.com;10987654;masculin;2nde;0
+histoire:3:14,12,
+MoyenneMatiere :13
+géographie:2:13,15,
+MoyenneMatiere :14
+
+sory;aline;25/04/2006;1ère;P2345;Banfora;aline.sory@gmail.com;13456790;féminin;1ère;0
+svt:3:15,14,16,
+MoyenneMatiere :15
+physique:5:12,14,15,
+MoyenneMatiere :13.5
+
+bonkoungou;abdoulaye;18/09/2005;2nde;P7890;Ouagadougou;abdoulaye.bon@gmail.com;14567832;masculin;2nde;0
+mathématiques:4:13,12,14,
+MoyenneMatiere :13
+anglais:2:10,14,
+MoyenneMatiere :12
+
+zagré;noel;11/02/2005;terminale;P0981;Koudougou;noel.zagre@gmail.com;19876543;masculin;terminale;0
+philosophie:4:15,14,13,
+MoyenneMatiere :14
+histoire:3:16,17,
+MoyenneMatiere :16.5
+
+kama;sara;05/11/2006;1ère;P3450;Bobo-Dioulasso;sara.kama@gmail.com;12467895;féminin;1ère;0
+anglais:2:14,15,
+MoyenneMatiere :14.5
+svt:3:13,12,15,
+MoyenneMatiere :13.5
+
+balima;amadou;08/06/2004;2nde;P5671;Ouagadougou;amadou.balima@gmail.com;17865432;masculin;2nde;0
+géographie:2:14,13,
+MoyenneMatiere :13.5
+mathématiques:4:15,14,16,
+MoyenneMatiere :15
+
+sankara;yasmine;03/08/2006;1ère;P8901;Ouagadougou;yasmine.sank@gmail.com;16785432;féminin;1ère;0
+physique:5:14,15,16,
+MoyenneMatiere :15
+anglais:2:12,14,
+MoyenneMatiere :13
+
+guira;emile;15/07/2005;terminale;P5672;Bobo-Dioulasso;emile.guira@gmail.com;19865432;masculin;terminale;0
+chimie:3:14,16,15,
+MoyenneMatiere :15
+svt:3:12,14,13,
+MoyenneMatiere :13
+
+kouma;amina;12/10/2004;2nde;P3458;Koudougou;amina.kouma@gmail.com;14567832;féminin;2nde;0
+histoire:3:15,14,
+MoyenneMatiere :14.5
+géographie:2:12,10,
+MoyenneMatiere :11
+

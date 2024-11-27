@@ -1,0 +1,82 @@
+                            
+
+                           PROJETS: Gestion de Note d'une Ecole
+
+    			Les Parties Principale de ce que on doit faire dans notre Projet:
+                    	*Calcul de la moyenne générale
+                       calculeMoyenneGene :
+                       Parcourt chaque matière associée à l'étudiant.
+                       Pour chaque matière, calcule :
+                       La moyenne des notes.
+                       Une pondération en fonction du coefficient de la matière.
+                       Calcule la moyenne générale pondérée (somme pondérée des moyennes par le coefficient divisé par le total des coefficients).
+                       Si aucune note ou coefficient n’est disponible, la moyenne est définie à 0.
+
+
+
+                   *Affichage des moyennes
+                    afficheMoyenneGene :
+                    Affiche un tableau des matières avec :
+                    Le nom de la matière.
+                    La moyenne obtenue.
+                    Le coefficient.
+                    Affiche la moyenne générale calculée.
+                   *Génération du bulletin
+                   AfficheBulletin :
+                   Présente les informations personnelles de l'étudiant.
+                   Affiche les détails des matières : les notes, la moyenne par matière et le coefficient.
+                   Met en évidence la moyenne générale annuelle.
+
+                 *Gestion des matières
+                 - Ajout de matières
+                 ajouterMatiere :
+                 Permet d’ajouter une matière à la liste des matières de l’étudiant.
+                 Affiche un message de confirmation après l'ajout.
+
+
+
+                 -Affichage des matières et des notes
+                afficherMatieresEtudiant :
+                Affiche les matières associées à l'étudiant, avec leurs noms et coefficients.
+                afficherNoteEtudiant :
+                Parcourt les matières et affiche pour chaque :
+                Les notes enregistrées.
+                La moyenne obtenue pour la matière.
+
+                     Affichage d'informations
+                           *Informations complètes
+                afficherInfo :
+                Affiche tous les attributs de l'étudiant (nom, matricule, adresse, etc.).
+                Mentionne la moyenne générale calculée.
+
+
+
+                *Affichage des matières
+
+             	 afficherMatieresEtudiant :
+                Liste les matières associées à l'étudiant, avec les coefficients.
+                Setters (Modification des données).
+
+
+             Les setters permettent de modifier les informations personnelles et académiques de l’étudiant :
+                Nom : setNom
+                Prénom : setPrenom
+                Matricule : setMatricule
+                Date de naissance : setDateNaissance
+                Genre : setGenre
+                Adresse : setAdresse
+                Email : setEmail
+                Niveau scolaire : setNiveauScolaire
+                Moyenne générale : setMoyenneAnnuelle
+        *Chaque méthode :
+          Affiche un message confirmant la modification.
+          Structure de la classe
+          Attributs principaux
+        *Informations personnelles :nom, prenom, genre, dateNaissance, matricule, adress, email, telephone.
+        *Informations académiques :niveauScolaire, moyenneGene.
+
+      Une liste de matières (matieres) définie à partir de la classe Matiere.
+      Ajout de matières : Permet de gérer dynamiquement les matières liées à un étudiant.
+      Calcul des moyennes : Automatise le calcul des moyennes pour chaque matière et de la moyenne générale pondérée.
+      Bulletin détaillé : Fournit un récapitulatif des résultats sous forme d’un bulletin complet.
+      Modifications des informations : Offre une interface flexible pour mettre à jour les données de l’étudiant.

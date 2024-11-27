@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1732677240 source:c:\licence2genielogicieluvbf\langagec++\projetl2c++vcodeblock\src\etudiant.cpp
+	"Etudiant.h"
+	"Matiere.h"
+	<iomanip>
+
+1732677240 c:\licence2genielogicieluvbf\langagec++\projetl2c++vcodeblock\include\etudiant.h
+	"Matiere.h"
+	<iostream>
+	<vector>
+
+1732677240 c:\licence2genielogicieluvbf\langagec++\projetl2c++vcodeblock\include\matiere.h
+	<iostream>
+	<vector>
+
+1732677240 source:c:\licence2genielogicieluvbf\langagec++\projetl2c++vcodeblock\src\matiere.cpp
+	"Matiere.h"
+	<iostream>
+
+1732677492 source:c:\licence2genielogicieluvbf\langagec++\projetl2c++vcodeblock\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<iomanip>
+	<fstream>
+	"Etudiant.h"
+	"Matiere.h"
+
